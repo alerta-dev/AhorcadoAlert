@@ -1,8 +1,8 @@
 const config = [
   {
-    word: "GATO",
-    imageFolder: "images/gato",
-    maxErrors: 5
+    word: "LOQUENDO",
+    imageFolder: "images/haster",
+    maxErrors: 9
   },
   {
     word: "CASA",
